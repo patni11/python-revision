@@ -1,0 +1,6 @@
+INFO:root:The function print_name ran with these args ('Shubh', 'Patni') and kwargs {}
+INFO:root:The function print_name ran with these args ('Shubh', 'Patni') and kwargs {}
+INFO:root:The function print_name ran with these args ('Shubh', 'Patni') and kwargs {}
+INFO:root:The function fucn ran with these args () and kwargs {}
+INFO:root:The function [fucn] ran with these args () and kwargs {}
+INFO:root:The function [fucn] ran with these args () and kwargs {}
